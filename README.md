@@ -1,7 +1,22 @@
 
   # Sports Partner Finder Website
 
-  This is a code bundle for Sports Partner Finder Website. The original project is available at https://www.figma.com/design/UBIcqSuRuM4ZKLSmmwhsjF/Sports-Partner-Finder-Website.
+  A modern platform for finding sports partners, sports venues, and local sports events.
+
+  ## Features
+  
+  - Find Sports Partners
+  - Discover Nearby Venues
+  - Explore Sports Events
+  - User Profiles
+  - Responsive Design
+  
+  ## Technologies Used
+  
+  - React
+  - TypeScript
+  - Vite
+  - Tailwind CSS
 
   ## Running the code
 
